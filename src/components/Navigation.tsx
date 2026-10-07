@@ -5,8 +5,9 @@ import { Button } from "@/components/ui/button";
 
 const navLinks = [
   { href: "#projects", label: "Work" },
-  { href: "#about", label: "About" },
-  { href: "#skills", label: "Skills" },
+  { href: "/about/shreyansh-singh/", label: "Profile" },
+  { href: "/india-japan/", label: "India–Japan" },
+  { href: "/press/", label: "Press" },
   { href: "#contact", label: "Contact" },
 ];
 
@@ -32,7 +33,7 @@ export function Navigation() {
       }`}
     >
       <div className="container-wide flex items-center justify-between">
-        <a href="#" className="text-xl font-bold tracking-tight">
+        <a href="/" className="text-xl font-bold tracking-tight" aria-label="Shreyansh Singh home">
           <span className="text-gradient">Shreyansh</span>
         </a>
 

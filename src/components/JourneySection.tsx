@@ -11,12 +11,17 @@ const milestones = [
   {
     year: "Present",
     title: "Founder & CEO — Sthapana Technologies",
-    description: "Building Third AI and leading enterprise AI innovation",
+    description: "Building applied AI, enterprise software and defence-technology systems",
   },
   {
     year: "2023",
-    title: "Youngest CEO — Connect India Japan",
-    description: "Appointed as the youngest CEO, bridging India-Japan business ecosystems",
+    title: "CEO at 21 — Connect India Japan",
+    description: "Professionally appointed CEO at age 21 to lead an India–Japan bilateral business platform, independent of family ownership, promoter status or prior directorship.",
+  },
+  {
+    year: "India–Japan Media",
+    title: "Editor-in-Chief — Bilingual India–Japan Magazine",
+    description: "Served as Editor-in-Chief of a bilingual India–Japan publication presented as the first magazine of its kind connecting audiences across both countries.",
   },
   {
     year: "2022",
@@ -129,10 +134,10 @@ export function JourneySection() {
             {/* Highlights */}
             <div className="grid grid-cols-2 gap-4">
               {[
-                { icon: Award, label: "Youngest CEO" },
+                { icon: Award, label: "CEO at 21 — India–Japan" },
                 { icon: Mic, label: "Global Speaker" },
-                { icon: BookOpen, label: "Published Author" },
-                { icon: Heart, label: "Philanthropist" },
+                { icon: BookOpen, label: "Editor-in-Chief & Author" },
+                { icon: Heart, label: "Technology Builder" },
               ].map((item, index) => (
                 <motion.div
                   key={item.label}
