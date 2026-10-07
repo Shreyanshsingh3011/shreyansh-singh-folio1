@@ -32,7 +32,7 @@ const projects = [
     tags: ["Agentic AI", "Finance", "SaaS"],
     icon: Brain,
     featured: false,
-    link: "#finai",
+    link: "/finai/",
   },
   {
     id: 4,
