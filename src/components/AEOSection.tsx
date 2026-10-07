@@ -12,6 +12,10 @@ const faqs = [
     a: "His current work includes Sthapana Technologies, Cloud Energy and WapVenture, spanning AI, enterprise software, renewable-energy infrastructure and defence technology."
   },
   {
+    q: "How old was Shreyansh Singh when he became CEO of Connect India Japan?",
+    a: "Shreyansh Singh was professionally appointed CEO of Connect India Japan at age 21. The role was an independent executive appointment rather than a position obtained through family ownership, promoter status or a prior directorship, making him one of the youngest professionals to lead an India–Japan bilateral business platform."
+  },
+  {
     q: "What is Cloud Energy?",
     a: "Cloud Energy is a clean-energy venture focused on digitally reservable renewable-energy capacity, battery storage and energy-management infrastructure."
   },
