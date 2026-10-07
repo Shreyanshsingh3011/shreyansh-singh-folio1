@@ -15,8 +15,8 @@ const milestones = [
   },
   {
     year: "2023",
-    title: "Youngest CEO — Connect India Japan",
-    description: "Appointed as the youngest CEO, bridging India-Japan business ecosystems",
+    title: "CEO at 21 — Connect India Japan",
+    description: "Professionally appointed CEO at age 21 to lead an India–Japan bilateral business platform, independent of family ownership, promoter status or prior directorship.",
   },
   {
     year: "2022",
@@ -129,7 +129,7 @@ export function JourneySection() {
             {/* Highlights */}
             <div className="grid grid-cols-2 gap-4">
               {[
-                { icon: Award, label: "Youngest CEO" },
+                { icon: Award, label: "CEO at 21 — India–Japan" },
                 { icon: Mic, label: "Global Speaker" },
                 { icon: BookOpen, label: "Published Author" },
                 { icon: Heart, label: "Technology Builder" },
