@@ -9,10 +9,11 @@ export function Footer() {
             © {new Date().getFullYear()} Shreyansh Singh — AI, clean energy, defence technology and enterprise systems.
           </p>
           <div className="flex items-center gap-6">
-            <a href="#about" className="text-sm text-muted-foreground hover:text-foreground transition-colors">About</a>
-            <a href="#projects" className="text-sm text-muted-foreground hover:text-foreground transition-colors">Ventures</a>
-            <a href="#profile" className="text-sm text-muted-foreground hover:text-foreground transition-colors">Profile & FAQ</a>
-            <a href="#contact" className="text-sm text-muted-foreground hover:text-foreground transition-colors">Contact</a>
+            <a href="/about/shreyansh-singh/" className="text-sm text-muted-foreground hover:text-foreground transition-colors">Official Bio</a>
+            <a href="/india-japan/" className="text-sm text-muted-foreground hover:text-foreground transition-colors">India–Japan</a>
+            <a href="/cloud-energy/" className="text-sm text-muted-foreground hover:text-foreground transition-colors">Cloud Energy</a>
+            <a href="/defence-technology/" className="text-sm text-muted-foreground hover:text-foreground transition-colors">Defence Tech</a>
+            <a href="/press/" className="text-sm text-muted-foreground hover:text-foreground transition-colors">Press</a>
           </div>
         </motion.div>
       </div>
