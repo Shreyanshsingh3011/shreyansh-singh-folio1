@@ -12,7 +12,7 @@ const projects = [
     tags: ["Renewable Energy", "BESS", "Energy Infrastructure"],
     icon: Sun,
     featured: true,
-    link: "#cloud-energy",
+    link: "/cloud-energy/",
   },
   {
     id: 2,
@@ -42,7 +42,7 @@ const projects = [
     tags: ["Navigation", "Autonomy", "Defence"],
     icon: Navigation,
     featured: false,
-    link: "#defence-navigation",
+    link: "/defence-technology/",
   },
   {
     id: 5,
