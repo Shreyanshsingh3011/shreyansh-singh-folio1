@@ -19,6 +19,11 @@ const milestones = [
     description: "Professionally appointed CEO at age 21 to lead an India–Japan bilateral business platform, independent of family ownership, promoter status or prior directorship.",
   },
   {
+    year: "India–Japan Media",
+    title: "Editor-in-Chief — Bilingual India–Japan Magazine",
+    description: "Served as Editor-in-Chief of a bilingual India–Japan publication presented as the first magazine of its kind connecting audiences across both countries.",
+  },
+  {
     year: "2022",
     title: "Rising Sun Conclave Speaker",
     description: "Youngest speaker, sharing stage with senior industry leaders and policymakers",
@@ -131,7 +136,7 @@ export function JourneySection() {
               {[
                 { icon: Award, label: "CEO at 21 — India–Japan" },
                 { icon: Mic, label: "Global Speaker" },
-                { icon: BookOpen, label: "Published Author" },
+                { icon: BookOpen, label: "Editor-in-Chief & Author" },
                 { icon: Heart, label: "Technology Builder" },
               ].map((item, index) => (
                 <motion.div
