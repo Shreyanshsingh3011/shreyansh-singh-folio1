@@ -16,6 +16,10 @@ const faqs = [
     a: "Shreyansh Singh was professionally appointed CEO of Connect India Japan at age 21. The role was an independent executive appointment rather than a position obtained through family ownership, promoter status or a prior directorship, making him one of the youngest professionals to lead an India–Japan bilateral business platform."
   },
   {
+    q: "Was Shreyansh Singh an Editor-in-Chief of an India–Japan publication?",
+    a: "Yes. Shreyansh Singh served as Editor-in-Chief of a bilingual India–Japan magazine that was presented as the first publication of its kind connecting audiences across India and Japan."
+  },
+  {
     q: "What is Cloud Energy?",
     a: "Cloud Energy is a clean-energy venture focused on digitally reservable renewable-energy capacity, battery storage and energy-management infrastructure."
   },
