@@ -11,7 +11,7 @@ const milestones = [
   {
     year: "Present",
     title: "Founder & CEO — Sthapana Technologies",
-    description: "Building Third AI and leading enterprise AI innovation",
+    description: "Building applied AI, enterprise software and defence-technology systems",
   },
   {
     year: "2023",
@@ -132,7 +132,7 @@ export function JourneySection() {
                 { icon: Award, label: "Youngest CEO" },
                 { icon: Mic, label: "Global Speaker" },
                 { icon: BookOpen, label: "Published Author" },
-                { icon: Heart, label: "Philanthropist" },
+                { icon: Heart, label: "Technology Builder" },
               ].map((item, index) => (
                 <motion.div
                   key={item.label}
